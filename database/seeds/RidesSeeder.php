@@ -2,7 +2,6 @@
 
 use Illuminate\Database\Seeder;
 use App\Models\Ride;
-use Validator;
 
 class RidesSeeder extends Seeder
 {
