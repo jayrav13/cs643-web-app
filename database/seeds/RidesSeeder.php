@@ -15,7 +15,7 @@ class RidesSeeder extends Seeder
 		ini_set('memory_limit', '-1');
 		$data = explode("\n", Storage::disk("local")->get("result.csv"));
 
-		for($i = count($data); $i > 0; $i--)
+		for($i = count($data) - 1; $i > 0; $i--)
 		{
 			echo $data[$i] . "\n";
 			$row = explode(",", $data[$i]);
