@@ -1,7 +1,9 @@
 
 var cloudApp = angular.module("cloudApp", [
 	"ngRoute",
-	"HeatmapController"
+	"HeatmapController",
+	"Location",
+	"ngMap"
 ]);
 
 cloudApp.config(function($routeProvider) {

@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 use App\Models\Ride;
 use Response;
+use DB;
 
 use Illuminate\Http\Request;
 
@@ -11,7 +12,7 @@ class RidesController extends Controller
 
 	public function index(Request $request)
 	{
-		$rides = Ride::take(5)->get();
+		$rides = Ride::take(15000)->get();
 		return Response::json($rides);
 	}
 

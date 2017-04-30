@@ -12,7 +12,7 @@ class LocationsController extends Controller
 
 	public function peak(Request $request)
 	{
-		$locations = PeakLocation::all();
+		$locations = PeakLocation::orderBy('count', 'DESC')->take(200)->get();
 		return Response::json($locations, 200);
 	}
 
