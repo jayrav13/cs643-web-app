@@ -3,7 +3,8 @@ var cloudApp = angular.module("cloudApp", [
 	"ngRoute",
 	"HeatmapController",
 	"Location",
-	"ngMap"
+	"ngMap",
+	"PeakLocationsController"
 ]);
 
 cloudApp.config(function($routeProvider) {
@@ -12,6 +13,10 @@ cloudApp.config(function($routeProvider) {
 		.when("/", {
 			templateUrl: "/js/views/heatmap.html",
 			controller: "HeatmapController"
+		})
+		.when("/peak/locations", {
+			templateUrl: "/js/views/peak_locations.html",
+			controller: "PeakLocationsController"
 		})
 		.otherwise({
 			redirect: "/"

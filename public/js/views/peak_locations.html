@@ -1,0 +1,19 @@
+
+<div class="container">
+	<div class="well well-lg col-md-10 col-md-offset-1">
+
+          <div map-lazy-load="https://maps.google.com/maps/api/js" map-lazy-load-params="{{googleMapsUrl}}">
+
+				<ng-map lazy-init="true" zoom="12" center="40.7589, -73.9851" map-type-id="">
+					<marker 
+						ng-repeat="location in locations"
+						position="[{{ location.latitude }}, {{ location.longitude }}]"
+						title="hello"
+						animation="Animation.DROP">
+					</marker>
+				</ng-map>
+
+          </div>
+
+	</div>
+</div>

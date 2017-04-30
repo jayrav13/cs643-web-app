@@ -8,7 +8,7 @@ angular.module('HeatmapController', [])
 	$scope.peakData = [new google.maps.LatLng(40.7128, -74.0059)];
 
 	function init() {
-		Location.peak()
+		Location.rides()
 			.then(function(data) {
 				$scope.locations = data.data;
 

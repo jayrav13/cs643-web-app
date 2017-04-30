@@ -4,12 +4,19 @@ angular.module('Location', [])
 
 	return {
 
-		peak: function() {
+		rides: function() {
 			return $http({
 				method: 'GET',
 				url: '/services/rides',
 			})
 		},
+
+		peakLocs: function() {
+			return $http({
+				method: "GET",
+				"url": "/services/locations/peak"
+			})
+		}
 
 	}
 
