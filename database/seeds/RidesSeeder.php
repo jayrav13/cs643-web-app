@@ -19,7 +19,6 @@ class RidesSeeder extends Seeder
 		{
 			try
 			{
-				echo $data[$i] . "\n";
 				$row = explode(",", $data[$i]);
 				$ride = Ride::create([
 					"timestamp" => $row[0],
@@ -29,6 +28,7 @@ class RidesSeeder extends Seeder
 					"name" => str_replace("\"", "", $row[4]),
 					"type" => str_replace("\"", "", $row[5]),
 				]);
+				echo $data[$i] . "\n";
 			}
 			catch (\Illuminate\Database\QueryException $exception)
 			{
