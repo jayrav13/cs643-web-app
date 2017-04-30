@@ -29,13 +29,10 @@ class RidesSeeder extends Seeder
 					"name" => str_replace("\"", "", $row[4]),
 					"type" => str_replace("\"", "", $row[5]),
 				]);
-				Storage::disk("local")->append("clean.csv", $data[$i]);
 			}
 			catch (\Illuminate\Database\QueryException $exception)
 			{
-				echo "FAIL";
 				continue;
-				// echo "FAIL: " . $data;
 			}
 		}
 	}
