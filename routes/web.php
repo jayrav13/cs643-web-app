@@ -17,4 +17,11 @@ Route::get('/', function () {
 
 Route::group(['prefix' => 'services'], function() {
 	Route::get("/rides", "RidesController@index");
+
+	Route::group(['prefix' => 'locations'], function() {
+
+		Route::get("peak", "LocationsController@peak");
+
+	});
+
 });
