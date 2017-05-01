@@ -5,6 +5,7 @@ use App\Models\Ride;
 use App\Models\UberPickupsDate;
 use App\Models\LyftPickupsDate;
 use App\Models\FHVPickupsDate;
+use App\Models\PeakHour;
 use Response;
 use DB;
 
@@ -25,6 +26,22 @@ class RidesController extends Controller
 			where coalesce(b.uber_count, 0) != 0 and coalesce(b.lyft_count, 0) != 0 and coalesce(f.count, 0) != 0
 			order by b.timestamp;");
 		return Response::json($counts, 200);
+	}
+
+	public function peak_hours(Request $request)
+	{
+		$counts = PeakHour::where("count", ">", 5)->get();
+		$hours = [];
+		$data = DB::select("SELECT DISTINCT hour FROM peak_hours");
+		foreach($data as $elem)
+		{
+			array_push($hours, $elem->hour);
+		}
+		sort($hours);
+		return Response::json([
+			"counts" => $counts,
+			"hours" => $hours
+		], 200);
 	}
 
 }

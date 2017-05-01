@@ -25,6 +25,10 @@ Route::group(['prefix' => 'services'], function() {
 		Route::get("peak", "LocationsController@peak");
 	});
 
+	Route::group(['prefix' => 'hours'], function() {
+		Route::get("/", "RidesController@peak_hours");
+	});
+
 	Route::group(['prefix' => 'dates'], function() {
 		Route::get("/", "RidesController@pickups_dates");
 	});
