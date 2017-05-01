@@ -49,4 +49,10 @@ class RidesController extends Controller
 		], 200);
 	}
 
+	public function nightlife(Request $request)
+	{
+		$result = DB::select("select latitude, longitude, sum(count) count from nightlife where extract(dow from timestamp) in (5, 6, 7) group by latitude, longitude order by count desc;");
+		return Response::json($result, 200);
+	}
+
 }

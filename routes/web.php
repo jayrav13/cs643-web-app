@@ -33,4 +33,8 @@ Route::group(['prefix' => 'services'], function() {
 		Route::get("/", "RidesController@pickups_dates");
 	});
 
+	Route::group(['prefix' => 'nightlife'], function() {
+		Route::get("/", "RidesController@nightlife");
+	});
+
 });

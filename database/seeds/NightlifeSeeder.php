@@ -13,7 +13,7 @@ class NightlifeSeeder extends Seeder
     public function run()
     {
 
-    	$data = Storage::disk("local")->get("nightlife.csv");
+    	$data = Storage::disk("local")->get("nightlife.txt");
     	$data = explode("\n", $data);
 
     	for($i = 0; $i < count($data); $i++)
