@@ -30,6 +30,13 @@ angular.module('Location', [])
 				method: "GET",
 				url: "/services/hours"
 			})
+		},
+
+		nightlife: function() {
+			return $http({
+				method: "GET",
+				url: "/services/nightlife"
+			})
 		}
 
 	}

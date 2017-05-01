@@ -8,6 +8,7 @@ use App\Models\FHVPickupsDate;
 use App\Models\PeakHour;
 use Response;
 use DB;
+use Storage;
 
 use Illuminate\Http\Request;
 
@@ -51,8 +52,14 @@ class RidesController extends Controller
 
 	public function nightlife(Request $request)
 	{
-		$result = DB::select("select latitude, longitude, sum(count) count from nightlife where extract(dow from timestamp) in (5, 6, 7) group by latitude, longitude order by count desc;");
-		return Response::json($result, 200);
+		$result = DB::select("select latitude, longitude, sum(count)::int count from nightlife where extract(dow from timestamp) in (5, 6, 7) group by latitude, longitude order by count desc;");
+		$locations = Storage::disk("local")->get("nightlife_locs.json");
+		$locations = json_decode($locations);
+
+		return Response::json([
+			"results" => $result,
+			"locations" => $locations
+		], 200);
 	}
 
 }

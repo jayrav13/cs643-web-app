@@ -29,6 +29,7 @@
 		<script type="text/javascript" src="/js/controllers/PeakLocationsController.js"></script>
 		<script type="text/javascript" src="/js/controllers/PeakHoursController.js"></script>
 		<script type="text/javascript" src="/js/controllers/PickupsDatesController.js"></script>
+		<script type="text/javascript" src="/js/controllers/NightlifeController.js"></script>
 
 		<script src="/js/bower_components/ngmap/build/scripts/ng-map.min.js"></script>
 
@@ -57,6 +58,7 @@
 						<li><a href="/#!/peak/locations">Peak Locations</a></li>
 						<li><a href="/#!/peak/hours">Peak Hours</a></li>
 						<li><a href="/#!/pickups">Pickups by Date</a></li>
+						<li><a href="/#!/nightlife">Popular Nightlife Pickups</a></li>
 					</ul>
 				</div><!-- /.navbar-collapse -->
 

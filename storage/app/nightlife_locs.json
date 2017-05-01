@@ -1,0 +1,962 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CoQCAAEAAAMuYTP0FLsYLK75oe9ciBm-hvqQyc9sMwlaFiAUWea9oFciNR2fYGGvU84rXivZRAVhX-PqxfrgYztd7n65s4Hc5Nw5cgzoyFlghibYmcx8iAKkwPuZFNB2-Hf8_P55goxm5-Is1J7T5vyS4jlZJOuOlbuqXgH0-sc8s0bwoI3m1jXiS83QWSUg2BYMoz39pJS_pPDX3AQdufZ0L6kdudYRSTS_fjUNUnzI6Ckz1_JYgpbq4dpA--XcEV2ljGOvWaVj6IcOsGMAxFjQXf6YCu1coHtrNnxfmRU14N3A7VqilJ9rgUAHBe9wGMvXaUSvD-p13JxThem4phQ9LfRSnk8SEBJysHNlAuOY5QgsXfR8gc8aFH5juSAmtrcbBGm4U_-PPBEUn7wr",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.744223,
+          "lng": -74.00631389999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74563268029149,
+            "lng": -74.00511066970849
+          },
+          "southwest": {
+            "lat": 40.7429347197085,
+            "lng": -74.00780863029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "9ce75c052ebd717f875c691e010b2e06fe2b3719",
+      "name": "The Park",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 750,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106235461114503553305/photos\">The Park</a>"
+          ],
+          "photo_reference": "CoQBdwAAAIAOBzVmhLPFGbD9EFqcIwZK_-tSTFHpSL8yHaAfB_rSQlXyzkTQga1275ojCOhGlWFO4ujEcutEPuMi2pxgmi3oMGGXId36j1NUuNrriXIYFMdlPQ5100E_hN84bJL5pLx64dcxZE4FTVT2IhwlWaD1UEwObnH1R17C2cQ4M5q3EhCDsMCWz9QB6QlvnebCTtQbGhSy7ig9fMD6KPdqMNFCnEOE1BcXPA",
+          "width": 752
+        }
+      ],
+      "place_id": "ChIJQYHxp7hZwokRLgncNuOR-0k",
+      "price_level": 2,
+      "rating": 3.7,
+      "reference": "CmRRAAAAEzEQi5IoY1Uz9MXeLUES6XixzXloASdTgSeSaG8ixiv0WhSrRjBOf2Ini0eCbRcmsJmkRyIj-Cifk4Hiwr-hJJ17Vi9KqMROxtDeCLrBN7JzTMRdj0OhPEdp_paqJZGaEhChbmTPyKSol3wgW_BZUxHLGhRG6tLj61VodLN7Nf7__Q6GJgAlsw",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "118 10th Avenue, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7404266,
+          "lng": -74.00545799999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7418216302915,
+            "lng": -74.00411216970849
+          },
+          "southwest": {
+            "lat": 40.7391236697085,
+            "lng": -74.00681013029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "c6fd3824202088e161462d1b622d50cf8f411d51",
+      "name": "Dos Caminos",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115392554450188297235/photos\">Dos Caminos</a>"
+          ],
+          "photo_reference": "CoQBdwAAAB13J4z5DZlx5itXhyfT45TOzMJKlLhj-REQM8isRrOa18S06J_6q4xKMf4LOsDAb5qZrRZjsHWt1TZVWw0wI5OsweeAY136DMdzf3KfWNZsTrNHewtilPXG-CBRwTwI36zFz77WVO2eMKjoTx6upOHMPY5NANvGOf-NCqnDnieiEhAdZMTRJfqzMiM3DPUfRcgkGhTEwqh5XFYt0XsOz7y-9j_3SWRzQQ",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJGy8Umr9ZwokRVas9YjRxMfo",
+      "price_level": 2,
+      "rating": 3.8,
+      "reference": "CmRSAAAAiIbWYPeZ9Av4tJd65CyoOR1sH36CggZexDacqdRwEbyi2I76pug-K91h18VgIdT1tTqhe6gjfbvDt0XJa5wiRQsB1-MM5jBKagLTMmqC62ZaAMHqhEizVpcBiPCt1ugGEhC5wnS-MJwFXT6W5QN80dFpGhSoqo4fSX3x2-TMaCGgRA3zdE6b2A",
+      "scope": "GOOGLE",
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "675 Hudson Street, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.74229320000001,
+          "lng": -74.0061291
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74390388029149,
+            "lng": -74.00334560000002
+          },
+          "southwest": {
+            "lat": 40.7412059197085,
+            "lng": -74.00897479999998
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "21d3eede3c19da129d7af5d5dcd7b698286bfb89",
+      "name": "The Tippler",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109731352870861263544/photos\">Francois G</a>"
+          ],
+          "photo_reference": "CoQBdwAAAEfIniAvWY_oVLGSC4xWSPDfQPpsDwDl-weVw5SUnRHDWFP6uEnyovXDwE4JsfvqUD9FoLlG5Kdek0Ef02Fw6MAbFi72Q2di4lK0sd5MDmfxC7rJhUH0f_EryciTf-FZa-iMlyRgJ3zmMwsVwG0MhfQNh2n5eBzsL0o_EFPThiNBEhCyK-rcmOe1SUaenYvKT3m7GhQez7DJAHBSe6c1r8JZuKMUYD8Xdw",
+          "width": 4048
+        }
+      ],
+      "place_id": "ChIJw2ZXYL9ZwokRZblZ0YKQ5QA",
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ClRQAAAA9XR2podYa8P-UhQ0xE3Svkx0g-YgL-uqyFjaerGo9teJL83gLYdhu62eixUrU9avoCgOwYz-s3G9whTc7G-62CgikJQt3w1pcDIKilEShSMSEPrWeEXB2lOUOapX6sV2mQYaFEjmaexCYnOHLGLbPPStGTp-O6O2",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "425 West 15th Street, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.740854,
+          "lng": -74.0079523
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7419717302915,
+            "lng": -74.0067082197085
+          },
+          "southwest": {
+            "lat": 40.7392737697085,
+            "lng": -74.00940618029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "e96e75c96fb6259d1769efd19d84b9d0026559d2",
+      "name": "The Standard Biergarten",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107500141676723537880/photos\">Aldo Fedrighini</a>"
+          ],
+          "photo_reference": "CoQBdwAAAJSRcjapMGV7V3aWFTvuYA53k2WWWQuXtR0JBxhwn5a7kw7s8Z-pl9dKWOrlOUobwb6Yo_ULaHEcxKGoZDp2PtqaKdDgcTHUqXjT8fbYspYxsFF5ebHqJu7cLEsyy7DGqz4_DXk6DuC5qXLS5C1AY2aeV-1XMQz-UVSQpuDvoDQ6EhCYuNi51_rsb4kHFfyNUwUwGhRSQ1_dJa3zunD45kdT6ePwtTaRfw",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJN-93ZsBZwokRMe_yr5I34Ik",
+      "price_level": 2,
+      "rating": 3.9,
+      "reference": "CmRSAAAApzfUx6pAoBB4loAdmkcLva7a8KAgW6KutrOAReoIJrFVhqLHUHLpZA6SAs9pGS1Mo56KHpFoHd0q5rXCCh1CxBxNyoGOcgm8JDHadiZIU16oeZRIZlEuk6VqrQg7D_LtEhBbHR4jNGyCGYke1OMqXWCgGhTVg1HxTjHVwY4Ref4eo-58tb-SWw",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "848 Washington Street, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.743015,
+          "lng": -74.00591
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7443168802915,
+            "lng": -74.00458311970849
+          },
+          "southwest": {
+            "lat": 40.7416189197085,
+            "lng": -74.00728108029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "a3453e22b6427ee48fdb8fed5e6d1f8341adeff5",
+      "name": "Highline Ballroom",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116256552969192364142/photos\">Dave Jones</a>"
+          ],
+          "photo_reference": "CoQBdwAAAAyiIS45oLBKi8Vc4D2Ohzx1sboh8s7bEafa1R0CQzYBMSD81UU8QkrKvo0k9CLphYc1j1WCSYqssdJHxE3QYHZ2DLlIArl-ysPIo5_rzuHPgjWYhoo852JIy-OopRaYbKFxDau2fyGu8WfVtzPZ1y53niTpkoSxhqgZEzXb6Xl_EhC89SQd-GXkrMY7R7yqNzERGhQ93EANbIQhan4T21EAQSYF3fvsFg",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJK5dcUL9ZwokRuPst-omUugk",
+      "rating": 3.8,
+      "reference": "CmRRAAAAS77cN9aQ3_I6HkE0NDZNdlA-z2wPc5qwtjRgVQXKUAD2xvDHjr8RFd18NQoj48mC8MwPNvJFarTdqgJvHZIfl_rS7NIGgEgGbrZrcOhaQAIj2k54urfrkVvsapuMTwnGEhDIdCh1dPVTUUmIr5TQFOn2GhQiHivoFbG06Rq37kT-4szlx2JmIw",
+      "scope": "GOOGLE",
+      "types": [
+        "night_club",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "431 West 16th Street, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7409106,
+          "lng": -74.0048247
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7421840302915,
+            "lng": -74.00354471970849
+          },
+          "southwest": {
+            "lat": 40.7394860697085,
+            "lng": -74.00624268029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "3d058bdac52d67913ea81d075fd8f7bb75887f44",
+      "name": "Scarpetta",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 1262,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109938846905004437020/photos\">Scarpetta</a>"
+          ],
+          "photo_reference": "CoQBdwAAANoLiTT28fhDPWN5oikdIGVzBd9LiSEjm6EQ1p4IJdXemtBaxOKd6_TW5aJDCIVYnDTtk_uH9GoeaVHXrbi6TfMrrf60OI5cGss2NkQpFB_o8hMbsYtfxMZ9MDK0l5HPC5rU2aJeOgSfCHiQALasRTTIJIP4q0QvraEcULXom4tsEhALyA_qEJZWHcuORGKY1k7OGhSH6sHctbjmoCwa3IYuIliza4tVRw",
+          "width": 1264
+        }
+      ],
+      "place_id": "ChIJt8W7n79ZwokRsyXs3QDbE3o",
+      "price_level": 3,
+      "rating": 4.4,
+      "reference": "CmRRAAAACg12uXtSPnxKPqUO4JglQgQjjqzvE6TenTRbSUQpsJ3RkRyOqf_LuPzCArz3IzbBfpbExfeHwiAv2n1Gx0Kd3l9lIh3WwA_I6zagcy_RSaJpVqmAKRQ33bW0HipH7fBxEhAsukzItBnddePlkT2AWr1_GhRLDq5cJS53ouyJWNNAU4SnAHVWWw",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "355 West 14th St, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7417653,
+          "lng": -74.00015719999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7432024802915,
+            "lng": -73.99870801970847
+          },
+          "southwest": {
+            "lat": 40.74050451970851,
+            "lng": -74.00140598029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "8791d6dfd777aa16a163ffa2da7908c4f2645f78",
+      "name": "Westville Chelsea",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 1201,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115818075124962251124/photos\">Westville Chelsea</a>"
+          ],
+          "photo_reference": "CoQBdwAAAHyAMSS1WTCZy_OdcnLIkNfAhx-oT5k3oNLk6-tzaVBO2N1lR5SKTrN2826-xdy2Y3bidB9FfBKM7-r_e5s7JEemJPrjJv4fQUdfP_D4Ye71ZUaZPj4LmL0rghBqN6d08Oxnc3AW6oqo6YYfWbbTq7UuLJDG3HQYI4Wb1rOoF1LuEhDsPuvlK7j00VBDidL9YfYQGhRnXIW9uldS_IT5EQjIOnm4rmIfXA",
+          "width": 1202
+        }
+      ],
+      "place_id": "ChIJfVFqGrxZwokRqva56HtwbRs",
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "CmRRAAAAeTtHv7AnsUyfsngEtd3mCiVJ5aedxzKhhPt2mkUjM0K57V5uqnRjnmyfcWigGAraU1-w5HZIwCuAPZmj-RFnAI_NZYb2tmiHhWoxB_Qa149ojhH7TlxJSife6sE1cApREhDIdVFqz90nySp5IC83iQQJGhT7BBDnf7ATwIkJ0KRYJtT2uUfC5Q",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "246 West 18th Street, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.73975220000001,
+          "lng": -74.0070779
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7411591802915,
+            "lng": -74.0056474197085
+          },
+          "southwest": {
+            "lat": 40.7384612197085,
+            "lng": -74.0083453802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "984784ef6c9646ce05be2b6c832da0dcd4639b03",
+      "name": "Cielo",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 533,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106512365301904010826/photos\">Cielo</a>"
+          ],
+          "photo_reference": "CoQBdwAAAKyRlo5PeC7YNqbbQGfd96VWD8_AvfuJYzn7qJRE_ea0wPXnzPhbQtIbDFJt5Q1TRDBGZICfeNEBQCaUmracCoEpKVc2svTNYp1HVOZLNnFZgydT47ZrF94AY_wOrMp2KrlGVkz3PmJJJKcsU0D0ZLi2aje3PT-tfR2dxj1hLvNNEhC_mA5mgE4hx6cX717b3L9nGhRRNfhWyGO3Q8ejw67fHPoe085qkA",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJs038DMBZwokR-CCUM6253Iw",
+      "price_level": 2,
+      "rating": 3.5,
+      "reference": "CmRSAAAACX-il-EFa-mwA2xPWo9piOMQvCvTKmH1H9--14NfCXGD3iGIPHI94fakp1zCPFF3_6lLNfZjbNjx9FPmBeEL_nmxmWhsFejIyWjHkMWiK1mYTh9UpugPr23qK0mDZ-UBEhCcY1h6MBswt2-5dw10RUm1GhT732C1pbqqrNP2QV-4EGe0HuqgaQ",
+      "scope": "GOOGLE",
+      "types": [
+        "night_club",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "18 Little West 12th St, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7435687,
+          "lng": -74.00323969999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7449708802915,
+            "lng": -74.00198796970849
+          },
+          "southwest": {
+            "lat": 40.7422729197085,
+            "lng": -74.00468593029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "136232e1e64659f6094399e82fd4b54c1837eac9",
+      "name": "Bathtub Gin",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117211865693656285212/photos\">Luca Dezzani</a>"
+          ],
+          "photo_reference": "CoQBdwAAANall4TIK6cEnydzu1Ff2ctQslqMXVrvbNIcG4_UG3WyAGsdcrehZv7u-BFrzg5aEblcL0tq62LOODRU9iSrSVchPVixp-bftzEY3Q9ieLAuDmeLAKgPMKrteMM6awY4Gz2VIzwGy6qYPhaQdfAx56iy_UaY83wPmGaDrzHN8Ma3EhCGDQW4WCOhqJXLDzzO9X1_GhTKenGXmmyooDL2fpyCxarDdYTVCA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJcTnRKLlZwokRT8ZXt9W9cgw",
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "CmRRAAAAXj8rN7_yWzP4zqQz4f4pCrZT7ykvPBxPwEaaq2-VvPDweKFJzNraP04QcHNqHGXS636RDCsVgiJ2BOsJQ7tGxjGBQRKnM47jG5-fBxvzy1faQIk1G1sqGkaFjp5Xm9I3EhADEy6MudWU82mhKB4bdbm2GhSMAjlVoVoTtbranBrYzwwCYuzZGw",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "132 9th Avenue, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.74056119999999,
+          "lng": -74.0070027
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7419962802915,
+            "lng": -74.00556821970849
+          },
+          "southwest": {
+            "lat": 40.7392983197085,
+            "lng": -74.0082661802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "ecbaadbd39b9de339ff87f64ede44cb4fda40396",
+      "name": "FIG & OLIVE",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 1538,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106876216223183896751/photos\">FIG &amp; OLIVE</a>"
+          ],
+          "photo_reference": "CoQBdwAAAFVLdrRzRy7pnWc55uTQIfXoF91fsCXATgnu88TXZrjFUKokNh1SYYX8xRdTqrPTetv8tLmn--WoyPEdJpSWOriXCS0lqtTwT7kJ35u8bBFbv6fKN11iJxSLbSA7Tjfs8frrBAkTeTY5-jaxUojoAexQqhluSaFtuKqFTmAkQQ56EhA1b2JE_yGfLPihcP5u61cTGhTIrtxDMXojAdEcaNCKf8RU1LAGJw",
+          "width": 1540
+        }
+      ],
+      "place_id": "ChIJ07ujcMBZwokRkYedKAwgegg",
+      "price_level": 3,
+      "rating": 3.9,
+      "reference": "CmRRAAAA434qJiMfHZs1zJs1IWDemG9c1Xz6hI6fntMc6cgKAD86XgW2mdwERTCqrjpgPTZFHp_gUaB_sspwZSw25gY0h5MyOCfZi2fnMZXILr3wtdxj0djkHI98W0i34ozoRLCREhCBiazqJlRhRFhp3jLT0h_oGhSqiXgQSlFF_bO_ryKyJm6CDcZ7xQ",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "420 West 13th Street, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.74409300000001,
+          "lng": -74.0064306
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7453785802915,
+            "lng": -74.00515386970851
+          },
+          "southwest": {
+            "lat": 40.7426806197085,
+            "lng": -74.00785183029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "292aff1b5b3d5794552a422830fbfd0fe37f0ef3",
+      "name": "Avenue",
+      "opening_hours": {
+        "open_now": false,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 897,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112892983365727503445/photos\">Avenue</a>"
+          ],
+          "photo_reference": "CoQBdwAAADxNun4oQrVzgFiqgMchc1CL9dsnEcfEftZpr0ddzHg7u3YiRBLKUhWP7OUNE0djmQofPf9dOxm8KfuQwGrHQZT4k4rVA64iSS-jnB_ypoylTHWRwRpbrWB4LIMqWneNVNY1f6A-Zu9ZZZmfIRZQAFsKUXgLrg_DDRjf5Athty46EhBJZlqMa18Eq2UZO-lmotsMGhT_1fuv9xIyGnohLM4IhYiiNuSaYw",
+          "width": 1349
+        }
+      ],
+      "place_id": "ChIJe4WSV8dZwokRZbIzXHt6-j4",
+      "rating": 2.5,
+      "reference": "CmRRAAAA1ZZoz-amgQfJU2pgfAodPHweIUH3gv3R_ktHBYmePd1o4W_lRjWGephSyyr0W2NE-FesGzLOFG6H3_bBFvk1b46Y-3AVNeRJMVxwQ5yMSOYqjXl7zyuJaR1TCGUyc7feEhCX0mf6fUFPJe0LT9QjXX2jGhSUfwNkDB0yKJwwIALP1amP6dQr_A",
+      "scope": "GOOGLE",
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "116 10th Avenue, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7399035,
+          "lng": -74.0073953
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74131173029149,
+            "lng": -74.00598661970849
+          },
+          "southwest": {
+            "lat": 40.7386137697085,
+            "lng": -74.0086845802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "ceb3f39507788698d44ff9c30faf12373b3ce89a",
+      "name": "STK Downtown & Rooftop",
+      "opening_hours": {
+        "open_now": false,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 3480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111536230638505409464/photos\">frederic arnoux</a>"
+          ],
+          "photo_reference": "CoQBdwAAAORmnhDLbP862MUN5tOmw5MgGRzuSMN5vTThejfut9Y-_tGH_nwzQlB4COdftluIKKx-tWlgslhmmrOVKOfr_uZmgXEYoihmVrNh69afis9Xt-UBmtAd76Tvo5z6E7qn5gCDTz2-wJUJPohES398--fuAXUB7VKo-TUySgrLr814EhA8s8e2rD8V2c2PclcyBFyNGhQjKVLjtRKkfAwThma3USJ882ytcg",
+          "width": 4640
+        }
+      ],
+      "place_id": "ChIJQ-3nEsBZwokRZq2rpFsBSP0",
+      "price_level": 3,
+      "rating": 3.9,
+      "reference": "CmRSAAAA4J9bvvmorR_E5Y_ThH9DBH2PBfW48pyf57SuXKl5PPCzgUMDwqPsN5ohFayum068-JvwbfCgqM5PTpN0kneTffN_lUKdnY_5XJxdZydLbFpIYdzJ72anuGtGh5Lo9Q1WEhDBnVLuJ19HsN_5zgQtbsTJGhThcwhF69Dl2-biG-vtcLwTKjCTVA",
+      "scope": "GOOGLE",
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "26 Little West 12th Street, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7403845,
+          "lng": -74.0074915
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7416830302915,
+            "lng": -74.0063232697085
+          },
+          "southwest": {
+            "lat": 40.7389850697085,
+            "lng": -74.00902123029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "281bd0e57d98cc6f6ec216e4c7a8df334b15d98a",
+      "name": "Sugar Factory American Brasserie",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118365588059177003566/photos\">P.J. Menillo</a>"
+          ],
+          "photo_reference": "CoQBdwAAAJUHdiuSAyIdeg3963qkPuUM9l0cvLyv3SA3A3IJZrIbvRL02KeUBMnvxu_dXdjT6W7ASMfekOhF80HZoXwBwCBpTrQ-OxBL83q_Tdnz4zzitGID7DfrEUolCEvqO3O2Dy8OuNqlY7cH1VTxlgeyqnx6iIlaQUoZz8oXKHhg-h0SEhB8XlNDisfNZTggP2QjNPpFGhRLufCTEFQpD1AGD9nrMTxx8iiVYQ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJrYUkCMBZwokRR0U6XKS-jpA",
+      "rating": 3.8,
+      "reference": "CmRSAAAAvoqouKh_3K8ARfrH_YDDck2QCv81iN1rXAB4alpldz0PMkDzVRCOqbaV8YywUg3IQQsidMQHUxoyquTwBIe3Qn_pm0xzxs1vtwv7RKoNOOYo_XbuPElLFY4qNo_9E6CVEhCw9_GbtU8XaN0DVvhJaTvLGhRMXW2ZrTDoJ88ivbhPyJYSP8B-BQ",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "bar",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "835 Washington Street, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.740284,
+          "lng": -74.005583
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7416185302915,
+            "lng": -74.0040811197085
+          },
+          "southwest": {
+            "lat": 40.7389205697085,
+            "lng": -74.00677908029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "e14b476b956f9e1a90d75a4f6586061b1eafe7bd",
+      "name": "Troy Liquor Bar",
+      "opening_hours": {
+        "open_now": false,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118057922052336825548/photos\">Troy Liquor Bar</a>"
+          ],
+          "photo_reference": "CoQBdwAAAFY7PAXn5bXIo-cSmgNBYC7pgYeFIhhqEoBxvEpavYHEAGThnStuNz6fYouHPhR6BFVQq-_YA1_1UaxKn5iv0-cfdm5hKVGZpFnNXW6dJJfQb9wXucTLmLp-LMkje806biqjm66o8kmej1s2bWr5VR_2aewlJEPsOGfyh8bLnnV3EhDv9l0k4salqAWdAGU0hgv7GhSqorfe4e3EWlXBlb5dm230XR5zHA",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJGy8Umr9ZwokRKBnSWIWvZrE",
+      "price_level": 3,
+      "rating": 3.9,
+      "reference": "CmRSAAAAAiSQ_I_1Z7Irv5opSBAQ-gmjGvP3E6fQ52_Gs0SvWXHLZA5PfsFXEN0wruoG6KTeupgvnzhdS5TtI0FHo-K6FGfq5pw8QZnC5EtU2CsZrvK3jH1mfFwz6S0TBjVElrJ-EhDgU9PZq9KB465tLAihbjJeGhSo4bX0G0CJCBX8vthSl2cXu8NixQ",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "675 Hudson Street, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.74215109999999,
+          "lng": -74.0049085
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7435000802915,
+            "lng": -74.00355951970849
+          },
+          "southwest": {
+            "lat": 40.7408021197085,
+            "lng": -74.0062574802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "861ad8128a881966824617d0dfddd1fa9c67df12",
+      "name": "Giovanni Rana Pastificio & Cucina",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104111246635874032234/photos\">ZAGAT</a>"
+          ],
+          "photo_reference": "CoQBdwAAALUaXjnWyTjhGIiZvJ1SEqlgUco7OWTi9ZDf5AHq0mfYLePmFtSQALm0NptTi0wDEjb8KHRj1XeTJziabVN_102pzK8XaBjqngbb_8-UcB_AS2uRw5usqtGXGpZqdASqL6kSkUMfB-7XhB-Tcme3iZuunZG_7ODEZ-1vfguMu_exEhC867KXom4qjrM3uavjP1qnGhRgg1XREpF0mqbsQWr6MePmhaJjkw",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJw2lMFL9ZwokRokE16rfvIQs",
+      "price_level": 3,
+      "rating": 4.1,
+      "reference": "CmRRAAAA20zNyOYNwsA4wfLwc1ycxnGZqCdeXUCsJhPxFUlLff4b7uQTIv9_lBfQ-kEspa29KDA4313kkXYkXhPcxZUNEmzBHcv637eMPqYIUZoHezAISjduYMG0v1nMyaqCJlKXEhAFmTP1pcYmxmcjtAIG66foGhRhelz0pEpl82MeNVEGgzJhyjWMzQ",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "75 9th Avenue, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.73908300000001,
+          "lng": -74.00141499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74050808029151,
+            "lng": -74.0000110197085
+          },
+          "southwest": {
+            "lat": 40.73781011970851,
+            "lng": -74.0027089802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "d406676b0a43c2e153eefc276a0d15901e8c63c8",
+      "name": "CK 14, The Crooked Knife 14th Street",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 1777,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102235365349698540360/photos\">CK 14, The Crooked Knife 14th Street</a>"
+          ],
+          "photo_reference": "CoQBdwAAALdicNCED4wL2WZQiYzHnA8Uyb8Pa_sg2Gz-9-AwCWR27GX0pOCJ5PJbwBLcCWPC_mYgUQf4bWVltRuGhf9BoQ-ckdMHCKxixKp9Zkn9B_NTQFNKYR8-NmPAdvxcUi6s6JYLqkj0WMIHlrhNty6aA5IZJzP3bRiEOpnn5_afu5PyEhC5jGWzYbPm8iafZTXT4_l-GhQU3OGBHIOiAOhB1CxFWqodfDPbFw",
+          "width": 1777
+        }
+      ],
+      "place_id": "ChIJARJDEr5ZwokRxSS8jgu5OFQ",
+      "price_level": 2,
+      "rating": 4,
+      "reference": "CmRRAAAAZXp505pV4ZbKPy6YsB_qzqMalWX05CqYCGJeBIS73pclK_a2T-cL1GthgrroZv6IiZ3bp9DfSLr3xaotwaK_-qsKe5XXCAtLtBTmt_3tM1Y-Uy9pxWQyNIEkPsiWocrFEhAYBbRLSUvkOMz89e84C2WbGhTF3aoZzPRtwz10GGXg6a09ku1ulg",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "232 West 14th Street, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7439224,
+          "lng": -74.0062324
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7452334802915,
+            "lng": -74.00491746970849
+          },
+          "southwest": {
+            "lat": 40.7425355197085,
+            "lng": -74.00761543029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "fc9a96c7f1433cc48e3cefe44b1c526d6d72e6a5",
+      "name": "1 Oak",
+      "opening_hours": {
+        "open_now": false,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116707993342200424883/photos\">Mary Jones</a>"
+          ],
+          "photo_reference": "CoQBdwAAAGQRVkwG_Ct7D_FqpJgO8ySIqY6hpXvq5HkX3klECiybMmqci8GCzQxs9huTFu9XtEEF-WyP-KQnWaKwA57Bu-mGEmVupsLZOk8OmrkmIqxcVJ3pu0pkdCc65q8CiwEGgJwwVVmDlfpoNmeL9kARJkUjsYGWdNkhVdmt66YwqYWNEhAyMsflVnNUBnwpDNn108hMGhT9QbMko80LPuKG5c8tRWIhEgoPMw",
+          "width": 1367
+        }
+      ],
+      "place_id": "ChIJpSIzqrhZwokR1KnVMoVty_g",
+      "rating": 2.7,
+      "reference": "CmRSAAAAm7JvHtC7yWG1kQlJRJgxccz5XDYKz5y7iAo_QUrzr7GLtq-mzOmpy-vtTqCa5ZGrdA06iYm8BHCeMMiM3nXhDixcCNda8HwoWGBM9sEM-HFvFXgP2jWHvstq-3mVMh50EhBonix6lqVLxwX-4pcY3gm4GhSi29BqAswAEwVSqIZDmUqXh-WIjQ",
+      "scope": "GOOGLE",
+      "types": [
+        "night_club",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "453 West 17th Street #1, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.740854,
+          "lng": -74.0079523
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74214498029149,
+            "lng": -74.00645241970849
+          },
+          "southwest": {
+            "lat": 40.7394470197085,
+            "lng": -74.0091503802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "6f2e351552ce2549ae6c27bf032e8cacf2b9e91e",
+      "name": "The Standard Grill",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 703,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118304136886117987646/photos\">The Standard Grill</a>"
+          ],
+          "photo_reference": "CoQBdwAAAKziaKCENdtY0kzgPCGXarjYDSUSNQWpKgAnhA33550gNWSl00FkUOTMimY9JdW6SNNh6qeInujbFy5w7ZNxEgPvhE1Je_tp_HkkLnKS1ZQNgDs-2fDlsbtFSS53Uz_M-qEqm5Z-80Ia9bar9d-o2WjVpqThni-G_5blaOaMqzPxEhCqr5X8tmuv9S4_fN9KKpGxGhQ7c77YM3sjehORHcCw_xVhMW_9Rg",
+          "width": 703
+        }
+      ],
+      "place_id": "ChIJN-93ZsBZwokRonoT5y_yB1c",
+      "price_level": 3,
+      "rating": 4,
+      "reference": "CmRRAAAAqoMzpnWbtUxsccNdzNfOE8kc__PIM_QC_EfECqHtzzxUCrOgGV7KGlJQKOULUHpMVZmnl0rey9pzwTRtEfFtV7wI5obO4iz9g-qLzZWgE5l_KUPyorgtvbcZDewugoeCEhBwnt-vZ4-b-w0QEprLzY2hGhRiw25TyzL2qYwf6xAm8R5W3FPoEg",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "848 Washington Street, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.74353929999999,
+          "lng": -74.0079483
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74491143029149,
+            "lng": -74.0065287197085
+          },
+          "southwest": {
+            "lat": 40.7422134697085,
+            "lng": -74.0092266802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "f14f7591024598c887efa8717098a8729e2ddbcc",
+      "name": "Del Posto",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104111246635874032234/photos\">ZAGAT</a>"
+          ],
+          "photo_reference": "CoQBdwAAAMeoHntCF_wpXsWR2ZJ7bJZBpXbvF-pG_bQnOiGa7dmfF_fNSsILZwDXYfTtSIz2JeKKEf-PXijDHr7OL6J8trazXgTe31gJwacxLJxWwvlqwwE6DqMXsPIjgTFpp5hUVAU8V8D3NdqwZiSfHtwLF6nHapN5pIVLoAhmmvC6-x4AEhCtJE_eObVSxEcsohDBtqJuGhRQM-AmSkRHDeLabWLPnSk3KAFuBA",
+          "width": 1800
+        }
+      ],
+      "place_id": "ChIJcVkmssBZwokRIpIrjLflCwE",
+      "price_level": 4,
+      "rating": 4.5,
+      "reference": "CmRRAAAAmUXVOxMdYyCyxIU0x_wHs-6kkw2fkexf8vcMxRJaUezGedALV1BEGBBiChvYpwh9LSPzDOttXlrxvW6ulR_AGtebbGoOCcXTrNv8fMJE_K_BSKVB8lpPWs0FGoJcW6aHEhAmnY5b7qFL0AsSx3BKfn5XGhRTS2I-MMREBErdgjU3f1xhhYDzBw",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "85 10th Avenue, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.740866,
+          "lng": -74.006951
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7421560802915,
+            "lng": -74.00564481970849
+          },
+          "southwest": {
+            "lat": 40.7394581197085,
+            "lng": -74.00834278029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "9c3c846e2aab580b01e4ec80ecd90a6c01d4fc83",
+      "name": "Valbella",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108980193164005102684/photos\">Valbella</a>"
+          ],
+          "photo_reference": "CoQBdwAAAN655WImpV7Ld3C8zJhwOzCKFDxrIlQqyAqDS5VcKMaf0CUX3s_0UZK0GOmbIHfFhUgal7uJblwyrWlvmGM6kqiEcT-amdvQAns8jVvpEFDblKEX6iQ-MsY-x5s_xV4oDN3WuHX2JMhJFZq7nmJYBFIISlz7YH7lYlXQavBepFHgEhC7MNbUBBOtcsE56Sjnw1vBGhRn6OEe0HAxYzabG_JE2D8jzyXEtQ",
+          "width": 1368
+        }
+      ],
+      "place_id": "ChIJL3lne8BZwokRLZ1J4QG7rcI",
+      "price_level": 4,
+      "rating": 4.6,
+      "reference": "CmRSAAAABz7_t15jE6RgNcZXLqVN4vxmmDto67bAhHdtSQcg4kiJ1MxtUKZJj73A0c9cHWOIRb8yFsV2HnggqD9ThXDrKZ0K6BBUD8NKUuKVBYgN72XcDlWEM4qGPkdNI1rCcA-nEhBmSzcxSBNBSsoC5AMN6stkGhQBQStVRhDWwUnIY64hLr8cvm23gg",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "421 West 13th Street, New York"
+    }
+  ],
+  "status": "OK"
+}
