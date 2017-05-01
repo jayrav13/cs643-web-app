@@ -27,6 +27,7 @@
 		<script type="text/javascript" src="/js/services/DataService.js"></script>
 		<script type="text/javascript" src="/js/controllers/HeatmapController.js"></script>
 		<script type="text/javascript" src="/js/controllers/PeakLocationsController.js"></script>
+		<script type="text/javascript" src="/js/controllers/PeakHoursController.js"></script>
 		<script type="text/javascript" src="/js/controllers/PickupsDatesController.js"></script>
 
 		<script src="/js/bower_components/ngmap/build/scripts/ng-map.min.js"></script>

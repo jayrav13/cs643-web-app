@@ -23,6 +23,13 @@ angular.module('Location', [])
 				method: "GET",
 				url: "/services/dates"
 			})
+		},
+
+		peakHours: function() {
+			return $http({
+				method: "GET",
+				url: "/services/hours"
+			})
 		}
 
 	}

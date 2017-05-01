@@ -31,10 +31,10 @@ class RidesController extends Controller
 	public function peak_hours(Request $request)
 	{
 		$counts = [
-			"breakdown" => PeakHour::where("count", ">", 5)->get(),
-			"total" => DB::select("SELECT DISTINCT hour, count FROM peak_hours")
+			"breakdown" => PeakHour::where("count", ">", 5)->where("name", "Uber")->get(),
+			"total" => DB::select("SELECT DISTINCT hour, SUM(count)::int AS count FROM peak_hours WHERE name = 'Uber' GROUP BY hour ORDER BY hour")
 		];
-		$data = DB::select("SELECT DISTINCT hour FROM peak_hours");
+		$data = DB::select("SELECT DISTINCT hour FROM peak_hours WHERE name = 'Uber'");
 
 		$hours = [];
 		foreach($data as $elem)

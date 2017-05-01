@@ -5,6 +5,7 @@ var cloudApp = angular.module("cloudApp", [
 	"Location",
 	"ngMap",
 	"PeakLocationsController",
+	"PeakHoursController",
 	"chart.js",
 	"PickupsDatesController"
 ]);
@@ -23,6 +24,10 @@ cloudApp.config(function($routeProvider, ChartJsProvider) {
 		.when("/pickups", {
 			templateUrl: "/js/views/pickups_dates.html",
 			controller: "PickupsDatesController"
+		})
+		.when("/peak/hours", {
+			templateUrl: "/js/views/peak_hours.html",
+			controller: "PeakHoursController"
 		})
 		.otherwise({
 			redirect: "/"
