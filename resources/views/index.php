@@ -55,7 +55,7 @@
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav">
 						<li><a href="/#!/peak/locations">Peak Locations</a></li>
-						<li><a href="/#!/peak/locations">Peak Hours</a></li>
+						<li><a href="/#!/peak/hours">Peak Hours</a></li>
 						<li><a href="/#!/pickups">Pickups by Date</a></li>
 					</ul>
 				</div><!-- /.navbar-collapse -->
