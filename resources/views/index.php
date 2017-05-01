@@ -19,11 +19,15 @@
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular-sanitize.js"></script>
 		<script src="https://maps.google.com/maps/api/js?libraries=placeses,visualization,drawing,geometry,places&key=AIzaSyAeryvEAf5PNAmqcC6zAdQq2glGwQISTXI"></script>
 
+		<script src="/js/bower_components/chart.js/dist/Chart.min.js"></script>
+		<script src="/js/bower_components//angular-chart.js/dist/angular-chart.min.js"></script>
+
 		<script type="text/javascript" src="/js/lib/markerclusterer.js"></script>
 
 		<script type="text/javascript" src="/js/services/DataService.js"></script>
 		<script type="text/javascript" src="/js/controllers/HeatmapController.js"></script>
 		<script type="text/javascript" src="/js/controllers/PeakLocationsController.js"></script>
+		<script type="text/javascript" src="/js/controllers/PickupsDatesController.js"></script>
 
 		<script src="/js/bower_components/ngmap/build/scripts/ng-map.min.js"></script>
 
@@ -50,6 +54,7 @@
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav">
 						<li><a href="/#!/peak/locations">Peak Locations</a></li>
+						<li><a href="/#!/pickups"></a></li>
 					</ul>
 				</div><!-- /.navbar-collapse -->
 

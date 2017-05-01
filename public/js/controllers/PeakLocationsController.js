@@ -23,6 +23,10 @@ angular.module('PeakLocationsController', [])
 
 	}
 
+	$scope.zoomIn = function(lat, long) {
+		console.log(lat);
+	}
+
 	init();
 
 

@@ -8,7 +8,7 @@
 					<marker 
 						ng-repeat="location in locations"
 						position="[{{ location.latitude }}, {{ location.longitude }}]"
-						title="hello"
+						title="Pickups in this area: {{ location.count.toLocaleString() }}"
 						animation="Animation.DROP">
 					</marker>
 				</ng-map>
@@ -22,10 +22,10 @@
 		<div style="height: 80vh; overflow-y: scroll;">
 
 			<ul class="list-group">
-				<li class="list-group-item" ng-repeat="location in locations">
+				<a class="list-group-item" ng-repeat="location in locations">
 					<span class="badge">{{ location.count.toLocaleString() }}</span>
 					Location: {{ location.latitude }}, {{ location.longitude }}
-				</li>
+				</a>
 			</ul>
 
 		</div>

@@ -16,12 +16,17 @@ Route::get('/', function () {
 });
 
 Route::group(['prefix' => 'services'], function() {
-	Route::get("/rides", "RidesController@index");
+
+	Route::group(['prefix' => 'rides'], function() {
+		Route::get("/", "RidesController@index");
+	});
 
 	Route::group(['prefix' => 'locations'], function() {
-
 		Route::get("peak", "LocationsController@peak");
+	});
 
+	Route::group(['prefix' => 'dates'], function() {
+		Route::get("/", "RidesController@pickups_dates");
 	});
 
 });
