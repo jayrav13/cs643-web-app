@@ -30,14 +30,19 @@ class RidesController extends Controller
 
 	public function peak_hours(Request $request)
 	{
-		$counts = PeakHour::where("count", ">", 5)->get();
-		$hours = [];
+		$counts = [
+			"breakdown" => PeakHour::where("count", ">", 5)->get(),
+			"total" => DB::select("SELECT DISTINCT hour, count FROM peak_hours")
+		];
 		$data = DB::select("SELECT DISTINCT hour FROM peak_hours");
+
+		$hours = [];
 		foreach($data as $elem)
 		{
 			array_push($hours, $elem->hour);
 		}
 		sort($hours);
+
 		return Response::json([
 			"counts" => $counts,
 			"hours" => $hours
